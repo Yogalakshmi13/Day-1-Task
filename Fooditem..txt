@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>Favourite Food Items</title>
+</head>
+<body>
+<h1 style="Color:Skyblue;"> <center>Food Recipe</center></h1>
+<h2 style="Color:gray"><center>
+<b><i> A Recipe Has No Soul, As A Cook Must Bring a  Soul To The Recipe<i><b>
+</center></h2>
+<hr></hr>
+<h3 style="color:pink;">Paneer Butter Masala<br> Ingredients</h3>
+
+<ol>
+<li>Paneer</li>
+<li>Tomato</li>
+<li>Onion</li>
+<li>Red Chilly</li>
+<li>Cream</li>
+<li>Cashewnut</li>
+<li>Coriander Leaves</li>
+<li>Red Chilly Powder</li>
+<li>Garam Masala</li>
+<li>Salt</li>
+<li>Oil</li>
+<li>Butter</li>
+<li>Water</li>
+</ol>
+<br/><br/>
+<hr></hr>
+<br>
+
+<h4 style="Color:Tomato;">How to do paneer butter masala?</h4>
+
+<p>
+<ol>
+<li>Firstly, in a large kadai heat 2 tbsp oil and 2 tbsp butter.1 bay leaf and 1 chilli. saute until the spices turn aromatic.</li><br/><br/><br/>
+<img src="C:\Users\Mounica\Documents\syl\image11.jpeg " alt="image11" width="300" height="300" \ >
+<br/><br/><br/><br/>
+
+<li>now add 1 onion and saute until onions turn and golden brown.</li><br/><br/><br/><br/>
+<img src="C:\Users\Mounica\Documents\syl\image12.jpeg" alt="image12"  width="300" height="300" \>
+<br/><br/><br/><br/>
+
+<li>keeping the flame on low, add ½ tsp turmeric, 1 tsp chilli powder, ¾ tsp coriander powder, ¼ tsp cumin powder, ½ garam masala and 1 tsp salt.</li><br/><br/><br/><br/>
+<img src="C:\Users\Mounica\Documents\syl\image9.jpeg" alt="image9"  width="300" height="300" \><br/><br/><br/><br/>
+
+<li>saute until the spices turn aromatic. make sure not to burn the spices.add in prepared onion tomato paste and mix well.
+cook until the oil separates from the masala paste.</li></ul><br/><br/><br/><br/>
+<img src="C:\Users\Mounica\Documents\syl\image16.jpeg" alt="image16"  width="300" height="300" \>
+<img src="C:\Users\Mounica\Documents\syl\image17.jpeg" alt="image17"  width="300" height="300" \><br/><br/><br/><br/>
+
+<li>now add 1 cup water and mix well adjusting the consistency.</li><br/><br/><br/><br/>
+<img src="C:\Users\Mounica\Documents\syl\image13.jpeg" alt="image13"  width="300" height="300" \><br/><br/><br/><br/>
+
+<li>further, add in 2 tbsp cream and mix well.</li><br/><br/><br/><br/>
+<img src="C:\Users\Mounica\Documents\syl\image14.jpeg" alt="image14"  width="300" height="300"\><br/><br/><br/><br/>
+
+<li>also, add 16 cubes of paneer and mix gently.simmer for 5 minutes, or until the paneer absorbs the flavour.</li><br/><br/><br/><br/>
+<img src="C:\Users\Mounica\Documents\syl\image15.jpeg" alt="image15"  width="300" height="300"\><br/><br/><br/><br/>
+
+<li>add 1 tsp kasuri methi and 2 tbsp coriander. mix well.Finally, Enjoy Paneer Butter Masala with Naan</li><br/><br/><br/><br/>
+<img src="C:\Users\Mounica\Documents\syl\image10.jpeg" alt="image10"  width="300" height="300"\><br/><br/><br/><br/>
+</p>
+
+<h5> <b><i><center>Thank You!! Have A Nice Day</center></i></b></h5>
+</body>
+</html>
